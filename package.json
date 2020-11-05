@@ -1,0 +1,16 @@
+{
+  "name": "@logchimp/mailgun",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "logchimp",
+    "email"
+  ],
+  "dependencies": {
+    "mailgun-js": "^0.22.0"
+  },
+  "engine": {
+    "node": "^12.10.0"
+  }
+}
